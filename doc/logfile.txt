@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\BlueJ\lib\bluejcore.jar;D:\BlueJ\lib\junit-jupiter-5.5.2.jar;D:\BlueJ\lib\junit-jupiter-api-5.5.2.jar;D:\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;D:\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;D:\BlueJ\lib\junit-jupiter-params-5.5.2.jar;D:\BlueJ\lib\junit-platform-commons-1.5.2.jar;D:\BlueJ\lib\junit-platform-console-1.5.2.jar;D:\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;D:\BlueJ\lib\junit-platform-engine-1.5.2.jar;D:\BlueJ\lib\junit-platform-launcher-1.5.2.jar;D:\BlueJ\lib\junit-platform-reporting-1.5.2.jar;D:\BlueJ\lib\junit-platform-runner-1.5.2.jar;D:\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;D:\BlueJ\lib\junit-platform-testkit-1.5.2.jar;D:\BlueJ\lib\junit-quickcheck-core-0.9.jar;D:\BlueJ\lib\junit-vintage-engine-5.5.2.jar;D:\BlueJ\lib\hamcrest-core-1.3.jar;D:\BlueJ\lib\hamcrest-library-1.3.jar;D:\BlueJ\lib\lang-stride.jar;D:\BlueJ\lib\javafx\lib\javafx.base.jar;D:\BlueJ\lib\javafx\lib\javafx.controls.jar;D:\BlueJ\lib\javafx\lib\javafx.fxml.jar;D:\BlueJ\lib\javafx\lib\javafx.graphics.jar;D:\BlueJ\lib\javafx\lib\javafx.media.jar;D:\BlueJ\lib\javafx\lib\javafx.properties.jar;D:\BlueJ\lib\javafx\lib\javafx.swing.jar;D:\BlueJ\lib\javafx\lib\javafx.web.jar;D:\GitHub\foxes-and-rabbits-handout
+-d
+D:\GitHub\foxes-and-rabbits-handout\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\GitHub\foxes-and-rabbits-handout\Deer.java
+<---- end of javadoc command ---->
+正在加载源文件D:\GitHub\foxes-and-rabbits-handout\Deer.java...
+正在构造 Javadoc 信息...
+标准 Doclet 版本 11.0.10
+正在构建所有程序包和类的树...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\Deer.html...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\package-summary.html...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\constant-values.html...
+正在构建所有程序包和类的索引...
+正在构建所有类的索引...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\allclasses.html...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\allclasses.html...
+正在生成D:\GitHub\foxes-and-rabbits-handout\doc\index.html...

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ A\ simple\ model\ of\ weather\r\n\ Different\ weather's\ appear\ probability,\ matain\ time\r\n\ \r\n\ @author\ Bowen\ Zhu\ and\ Chin\ Wan\r\n\ @version\ 2022.03.01(3)\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Construct\ a\ list\ of\ different\ weathers\r\n
+comment2.params=
+comment2.target=void\ generateWeather()
+comment2.text=\r\n\ Determine\ the\ current\ weather\ base\ on\ each\ weather's\ probability\r\n\ if\ it's\ not\ any\ of\ the\ three(rainy,\ foggy,\ storm),\ then\ the\ weather\r\n\ is\ sunny.\r\n\ @return\ the\ current\ weather.\r\n
+comment3.params=
+comment3.target=void\ weatherDuration()
+comment3.text=\r\n\ Generate\ a\ number\ representing\ the\ total\ duration\ time\ of\ the\r\n\ current\ weather\ type.\r\n\ @return\ the\ number\ of\ weather\ duration\ time\ in\ step\ (between\ 1\ and\ MAX_WEATHER_DURATION).\r\n
+comment4.params=
+comment4.target=void\ incrementDuration()
+comment4.text=\r\n\ Decrease\ the\ duration,\ when\ it\ is\ 0,\ change\ the\ weather.(Could\ be\ the\ same\ as\ last\ one).\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWeather()
+comment5.text=\r\n\ Return\ the\ name\ of\ the\ current\ weather.\r\n\ @param\ The\ status\ of\ the\ weather.\r\n\ @return\ the\ name\ of\ the\ current\ weather.\r\n
+comment6.params=
+comment6.target=int\ getWeatherDuration()
+comment6.text=\r\n\ Return\ the\ remain\ duration\ of\ the\ current\ weather.\r\n\ @return\ the\ remain\ duration\ of\ the\ current\ weather.\r\n
+numComments=7
